@@ -24,6 +24,22 @@ Join us for a *thought-provoking discussion* that will challenge your assumption
 
 ---
 
+- [Robot Rights? Is it Time to Rethink Our Relationship with Machines?](#robot-rights-is-it-time-to-rethink-our-relationship-with-machines)
+  - [Robot Ethics for a Mechanized World](#robot-ethics-for-a-mechanized-world)
+  - [Balancing Progress and Responsibility: Exploring the Ethical Landscape of Robotics](#balancing-progress-and-responsibility-exploring-the-ethical-landscape-of-robotics)
+  - [Safety, Bias, and Transparency in Robot Design](#safety-bias-and-transparency-in-robot-design)
+  - [Moral Status, the Line Between Machine and Agent, and Meaningful Human Control](#moral-status-the-line-between-machine-and-agent-and-meaningful-human-control)
+  - [Economic Impacts of Robotics, Utopia vs. Dystopia, and Robots in Caregiving](#economic-impacts-of-robotics-utopia-vs-dystopia-and-robots-in-caregiving)
+  - [Public Perception, Responsibility, and the Future of Robotics with AI](#public-perception-responsibility-and-the-future-of-robotics-with-ai)
+  - [Debate Guide: Opposing Extensive Engagement in Robot Ethics](#debate-guide-opposing-extensive-engagement-in-robot-ethics)
+  - [Debate Guide: Advantages of Engaging in Robot Ethics](#debate-guide-advantages-of-engaging-in-robot-ethics)
+  - [Here are some advantages and disadvantages relating to the field of robot ethics.](#here-are-some-advantages-and-disadvantages-relating-to-the-field-of-robot-ethics)
+  - [Here is a list of key players and stakeholders involved in robot ethics, based on the sources provided.](#here-is-a-list-of-key-players-and-stakeholders-involved-in-robot-ethics-based-on-the-sources-provided)
+  - [Robot Ethics: A Comprehensive Briefing and Detailed Report](#robot-ethics-a-comprehensive-briefing-and-detailed-report)
+
+
+---
+
 ## Robot Ethics for a Mechanized World
 
 If tasked with creating a set of robot ethics, the principles would need to address the multifaceted concerns raised in the sources, aiming to ensure that robots are developed and used responsibly, minimizing potential harms while maximizing benefits for humanity. The purpose of these ethical guidelines would be to guide the design, development, deployment, and regulation of robots, fostering a future where AI and robotics contribute positively to society.
